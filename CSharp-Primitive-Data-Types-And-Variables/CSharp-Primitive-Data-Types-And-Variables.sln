@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101. Declare_Variables", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102. Float_or_double", "102. Float_or_double\102. Float_or_double.csproj", "{EC53DAC2-C894-49D3-983C-5410282553EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103. Comparing Floats", "103. Comparing Floats\103. Comparing Floats.csproj", "{37D8DC25-823A-439B-ACF0-D213E2151D53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Variable_In_Hexadecimal_Format", "104. Variable_In_Hexadecimal_Format\104. Variable_In_Hexadecimal_Format.csproj", "{1F6691C3-686B-4ADD-8972-90781162513D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{EC53DAC2-C894-49D3-983C-5410282553EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC53DAC2-C894-49D3-983C-5410282553EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC53DAC2-C894-49D3-983C-5410282553EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D8DC25-823A-439B-ACF0-D213E2151D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D8DC25-823A-439B-ACF0-D213E2151D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D8DC25-823A-439B-ACF0-D213E2151D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D8DC25-823A-439B-ACF0-D213E2151D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6691C3-686B-4ADD-8972-90781162513D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6691C3-686B-4ADD-8972-90781162513D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6691C3-686B-4ADD-8972-90781162513D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6691C3-686B-4ADD-8972-90781162513D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

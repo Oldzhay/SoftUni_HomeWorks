@@ -11,22 +11,17 @@ class Float_or_double
 {
     static void Main()
     {
-        bool DEBUG = true;
         //34.567839023, 12.345, 8923.1234857, 3456.091
         double Number34_567839023 = 34.567839023;
         double Number12_345 = 12.345;
         double Number8923_1234857 = 8923.1234857;
         double Number3456_091 = 3456.091;
 
-        if (DEBUG)
-        {
-            // Printing results
-            Console.WriteLine(" " + Number34_567839023);
-            Console.WriteLine(" " + Number12_345);
-            Console.WriteLine(" " + Number8923_1234857);
-            Console.WriteLine(" " + Number3456_091);
-        }
-        
-
+       // Printing results
+       Console.WriteLine(" " + Number34_567839023);
+       Console.WriteLine(" " + Number12_345);
+       Console.WriteLine(" " + Number8923_1234857);
+       Console.WriteLine(" " + Number3456_091);
+       
     }
 }
