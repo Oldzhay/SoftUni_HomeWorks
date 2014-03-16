@@ -12,6 +12,7 @@ class Declare_Variables
 {
     static void Main()
     {
+        bool PrintResult = true;
         // ushort - unsigned 16-bit: 0 - 65535
         ushort Number52130 = 52130;
         // sbyte - signed 8-bit: -128 - 127
@@ -23,10 +24,13 @@ class Declare_Variables
         // short - signed 16-bit: -21768 - 32767
         short NumberMinus10000 = -10000;
 
-        Console.WriteLine(" " + Number52130);
-        Console.WriteLine(" " + NumberMinus115);
-        Console.WriteLine(" " + Number4825932);
-        Console.WriteLine(" " + Number97);
-        Console.WriteLine(" " + NumberMinus10000);
+        if (PrintResult)
+        {
+            Console.WriteLine(" " + Number52130);
+            Console.WriteLine(" " + NumberMinus115);
+            Console.WriteLine(" " + Number4825932);
+            Console.WriteLine(" " + Number97);
+            Console.WriteLine(" " + NumberMinus10000);
+        }
     }
 }
