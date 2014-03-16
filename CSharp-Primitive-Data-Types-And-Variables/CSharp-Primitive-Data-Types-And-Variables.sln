@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "106. Boolean_Variable", "10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "107. Strings_And_Objects", "107. Strings_And_Objects\107. Strings_And_Objects.csproj", "{8247B422-9A9B-4B61-AD91-143355B3D79F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "108. Quotes_In_Strings", "108. Quotes_In_Strings\108. Quotes_In_Strings.csproj", "{999CFE4C-9977-4342-8C11-682EC3C30A41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{8247B422-9A9B-4B61-AD91-143355B3D79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8247B422-9A9B-4B61-AD91-143355B3D79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8247B422-9A9B-4B61-AD91-143355B3D79F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

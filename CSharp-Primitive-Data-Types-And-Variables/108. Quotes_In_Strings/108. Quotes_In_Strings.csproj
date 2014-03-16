@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{8247B422-9A9B-4B61-AD91-143355B3D79F}</ProjectGuid>
+    <ProjectGuid>{999CFE4C-9977-4342-8C11-682EC3C30A41}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_107.Strings_And_Objects</RootNamespace>
-    <AssemblyName>_107.Strings_And_Objects</AssemblyName>
+    <RootNamespace>_108.Quotes_In_Strings</RootNamespace>
+    <AssemblyName>_108.Quotes_In_Strings</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Strings_And_Objects.cs" />
+    <Compile Include="Quotes_In_Strings.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
