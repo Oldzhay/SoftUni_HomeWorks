@@ -8,28 +8,25 @@
 
 using System;
 
-namespace Declare_Variables
+class Declare_Variables
 {
-    class Declare_Variables
+    static void Main()
     {
-        static void Main()
-        {
-            // ushort - unsigned 16-bit: 0 - 65535
-            ushort Number52130 = 52130;
-            // sbyte - signed 8-bit: -128 - 127
-            sbyte NumberMinus115 = -115;
-            // int - signed 32-bit - 
-            int Number4825932 = 4825932;
-            // byte - signed 8-bit: 0 - 255
-            byte Number97 = 97;
-            // short - signed 16-bit: -21768 - 32767
-            short NumberMinus10000 = -10000;
+        // ushort - unsigned 16-bit: 0 - 65535
+        ushort Number52130 = 52130;
+        // sbyte - signed 8-bit: -128 - 127
+        sbyte NumberMinus115 = -115;
+        // int - signed 32-bit - 
+        int Number4825932 = 4825932;
+        // byte - signed 8-bit: 0 - 255
+        byte Number97 = 97;
+        // short - signed 16-bit: -21768 - 32767
+        short NumberMinus10000 = -10000;
 
-            Console.WriteLine(" " + Number52130);
-            Console.WriteLine(" " + NumberMinus115);
-            Console.WriteLine(" " + Number4825932);
-            Console.WriteLine(" " + Number97);
-            Console.WriteLine(" " + NumberMinus10000);
-        }
+        Console.WriteLine(" " + Number52130);
+        Console.WriteLine(" " + NumberMinus115);
+        Console.WriteLine(" " + Number4825932);
+        Console.WriteLine(" " + Number97);
+        Console.WriteLine(" " + NumberMinus10000);
     }
 }
