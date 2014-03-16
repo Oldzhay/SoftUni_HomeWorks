@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "103. Comparing Floats", "10
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "104. Variable_In_Hexadecimal_Format", "104. Variable_In_Hexadecimal_Format\104. Variable_In_Hexadecimal_Format.csproj", "{1F6691C3-686B-4ADD-8972-90781162513D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "105. Unicode_Value", "105. Unicode_Value\105. Unicode_Value.csproj", "{BAC8FE37-95B9-4C36-9BAD-A9E061AE1286}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1F6691C3-686B-4ADD-8972-90781162513D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F6691C3-686B-4ADD-8972-90781162513D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F6691C3-686B-4ADD-8972-90781162513D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAC8FE37-95B9-4C36-9BAD-A9E061AE1286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAC8FE37-95B9-4C36-9BAD-A9E061AE1286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAC8FE37-95B9-4C36-9BAD-A9E061AE1286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAC8FE37-95B9-4C36-9BAD-A9E061AE1286}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
