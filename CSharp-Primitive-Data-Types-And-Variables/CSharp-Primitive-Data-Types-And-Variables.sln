@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "101. Declare_Variables", "101. Declare_Variables\101. Declare_Variables.csproj", "{FD8046D6-8AB0-4756-9B58-39CCC5A2F43F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102. Float_or_double", "102. Float_or_double\102. Float_or_double.csproj", "{EC53DAC2-C894-49D3-983C-5410282553EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD8046D6-8AB0-4756-9B58-39CCC5A2F43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD8046D6-8AB0-4756-9B58-39CCC5A2F43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD8046D6-8AB0-4756-9B58-39CCC5A2F43F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC53DAC2-C894-49D3-983C-5410282553EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC53DAC2-C894-49D3-983C-5410282553EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC53DAC2-C894-49D3-983C-5410282553EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC53DAC2-C894-49D3-983C-5410282553EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
