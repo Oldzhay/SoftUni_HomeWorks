@@ -14,6 +14,6 @@ class Current_Date_And_Time
     {
         DateTime CurrentDate = DateTime.Now;
         Console.Write("Current Date And Time: ");
-        Console.WriteLine(CurrentDate);
+        Console.WriteLine(CurrentDate.ToString("dd/MM/yyyy"));
     }
 }

@@ -7,11 +7,11 @@
  */
 using System;
 
-class Calculate_Squire_Root
+class Calculate_Square_Root
 {
     static void Main()
     {
-        double SquireRootOfNumber = Math.Sqrt(12345);
-        Console.WriteLine(SquireRootOfNumber);
+        double SquareRootOfNumber = Math.Sqrt(12345);
+        Console.WriteLine(SquareRootOfNumber);
     }
 }
