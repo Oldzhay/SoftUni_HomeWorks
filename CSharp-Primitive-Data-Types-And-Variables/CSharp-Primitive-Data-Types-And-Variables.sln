@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "107. Strings_And_Objects", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "108. Quotes_In_Strings", "108. Quotes_In_Strings\108. Quotes_In_Strings.csproj", "{999CFE4C-9977-4342-8C11-682EC3C30A41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "109. Isosceles_Triangle", "109. Isosceles_Triangle\109. Isosceles_Triangle.csproj", "{CDE2CC00-9512-4BF9-B2D4-D95E53710962}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{999CFE4C-9977-4342-8C11-682EC3C30A41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDE2CC00-9512-4BF9-B2D4-D95E53710962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDE2CC00-9512-4BF9-B2D4-D95E53710962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDE2CC00-9512-4BF9-B2D4-D95E53710962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDE2CC00-9512-4BF9-B2D4-D95E53710962}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
