@@ -24,13 +24,13 @@ class Employee_Data
         byte EmployeeAge = 33;
         char EmployeeGender = 'M';
         long EmployeeIDNumber = 8306112507;
-        short EmployeeUniqueNumber = 12345;
+        ushort EmployeeUniqueNumber = 1234;
 
         Console.WriteLine("Exployee Firts Name: " + EmployeeFirtsName);
         Console.WriteLine("Employee Last Name: " + EmployeeLastName);
         Console.WriteLine("Employee Age: " + EmployeeAge);
         Console.WriteLine("Employee Gender: " + EmployeeGender);
         Console.WriteLine("Employee Id Number: " + EmployeeIDNumber);
-        Console.WriteLine("Employee Unique Number: " + 275 + EmployeeUniqueNumber);
+        Console.WriteLine("Employee Unique Number: " + 2756 + EmployeeUniqueNumber);
     }
 }
