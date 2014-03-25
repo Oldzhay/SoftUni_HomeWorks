@@ -21,7 +21,7 @@ class Declare_Variables
         int Number4825932 = 4825932;
         // byte - signed 8-bit: 0 - 255
         byte Number97 = 97;
-        // short - signed 16-bit: -21768 - 32767
+        // short - signed 16-bit: -31768 - 32767
         short NumberMinus10000 = -10000;
 
         if (PrintResult)
