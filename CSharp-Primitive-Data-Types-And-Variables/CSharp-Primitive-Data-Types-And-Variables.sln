@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "111. Employee_Data", "111. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112. Banc_Account_Data", "112. Banc_Account_Data\112. Banc_Account_Data.csproj", "{8603BE87-6361-4C0A-AC0D-663F912104CA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "113. Null Values Aritmethic", "113. Null Values Aritmethic\113. Null Values Aritmethic.csproj", "{4A7B60CD-5ED0-4C55-B8F4-15C50DE70B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "114. Print_ASCII_Table", "114. Print_ASCII_Table\114. Print_ASCII_Table.csproj", "{46C37CBC-38B6-4B77-8956-7BA7E2427F50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{8603BE87-6361-4C0A-AC0D-663F912104CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8603BE87-6361-4C0A-AC0D-663F912104CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8603BE87-6361-4C0A-AC0D-663F912104CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A7B60CD-5ED0-4C55-B8F4-15C50DE70B6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A7B60CD-5ED0-4C55-B8F4-15C50DE70B6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A7B60CD-5ED0-4C55-B8F4-15C50DE70B6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A7B60CD-5ED0-4C55-B8F4-15C50DE70B6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46C37CBC-38B6-4B77-8956-7BA7E2427F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C37CBC-38B6-4B77-8956-7BA7E2427F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C37CBC-38B6-4B77-8956-7BA7E2427F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C37CBC-38B6-4B77-8956-7BA7E2427F50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
